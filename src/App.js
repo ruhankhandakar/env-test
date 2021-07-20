@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        {process.env.VARIABLE}
+        {process.env.REACT_APP_VARIABLE}
         <a
           className="App-link"
           href="https://reactjs.org"
